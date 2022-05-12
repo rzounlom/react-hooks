@@ -1,0 +1,11 @@
+--What are React Hooks(React version 16.8 or greater)?
+    --Hooks allow the use of state/other React features without writing classes
+
+--What problems do they solve?
+    --Functional components can now have state
+    --More readable: Class components can be confusing
+    --Reduce component complexity 
+
+--Most common Hooks:
+    --useState
+    --useEffect
